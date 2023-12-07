@@ -1,0 +1,1 @@
+<view><audio loop="true" controls="true" src="https://bjetxgzv.cdn.bspapp.com/VKCEYUGU-hello-uniapp/2cc220e0-c27a-11ea-9dfb-6da8e309e0d8.mp3" data-event-opts="{{[['play',[['play',['$event']]]],['pause',[['pause',['$event']]]]]}}" bindplay="__e" bindpause="__e"></audio></view>
